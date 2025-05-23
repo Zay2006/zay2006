@@ -1,82 +1,44 @@
-<!-- Profile README for Zay2006 -->
+# Hi there, I'm Isaiah Wright 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zay2006&style=flat-square" alt="Profile views"/>
-</p>
-
-<h1 align="center">Hi there, I'm Zay2006! 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Passionate+Developer;Open+Source+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
-</p>
+## About Me
+I love to travel, I'm open to learning new things, and my interests are Anime, Full Stack Development, and Art (Music and Drawing). My goals are to put my voice out into the world and do the best I can.
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🌱 I’m constantly learning and exploring new technologies.
-- 🔭 Currently working on several open-source projects and personal experiments.
-- 💡 Interests: Full-stack development, automation, AI, and creative coding.
-- 🎯 Goals: Build impactful projects, contribute to the community, and grow as a developer.
-
----
-
-## 🛠️ Skills & Tools
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-<!-- Add more as you wish -->
+## Skills & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 
 ---
 
-## 📫 Connect with Me
-
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- Twitter: [@yourtwitter](https://twitter.com/yourtwitter)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
+## Connect with Me
+- **Email:** iwright4706@outlook.com
+- **LinkedIn:** [isaiah-wright-384b2b26a](https://www.linkedin.com/in/isaiah-wright-384b2b26a/)
+- **Portfolio:** [my-portfolio-ten-ochre-89.vercel.app](https://my-portfolio-ten-ochre-89.vercel.app)
 
 ---
 
-## 🚀 Projects
-
-- 🔥 [Project One](https://github.com/Zay2006/project-one) – A cool project description.
-- 🚧 [Project Two](https://github.com/Zay2006/project-two) – Another awesome project.
-- 🌐 [See all my repositories](https://github.com/Zay2006?tab=repositories)
+## Projects
+- [Social Dashboard](https://github.com/Zay2006/social-dashboard)
+- [TimedTimer 3.0](https://github.com/Zay2006/TimedTimer3.0)
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zay2006&show_icons=true&theme=radical" alt="Zay2006's GitHub stats"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zay2006&theme=radical" alt="GitHub Streak"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zay2006&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+## Fun Facts
+- Loves to travel
+- Favorite game is Persona 5 Royal
+- Powered by pure will power
 
 ---
 
-## ⚡ Fun Facts
-
-- 🤖 I love automating mundane tasks with code.
-- 🧩 Puzzles and brain teasers are my jam.
-- ☕ Powered by coffee and curiosity.
-
----
-
-## 💬 Quote
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
----
-
-<!--
-**Zay2006/Zay2006** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
--->
+## Quote
+> "I'm going to keep fighting until this world is as it should be. Until everything is balanced."  
+> — Death The Kid (Soul Eater)
