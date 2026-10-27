@@ -37,6 +37,7 @@ I’m a developer who enjoys building creative, useful, and polished digital exp
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
   <img src="https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma" />
+  <img src="https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor" />
 </p>
 
 ---
@@ -45,15 +46,15 @@ I’m a developer who enjoys building creative, useful, and polished digital exp
 
 - 📧 **Email:** [iwright4706@outlook.com](mailto:iwright4706@outlook.com)
 - 💼 **LinkedIn:** [Isaiah Wright](https://www.linkedin.com/in/isaiah-wright-384b2b26a/)
-- 🌐 **Portfolio:** [Visit my portfolio](https://my-portfolio-ten-ochre-89.vercel.app)
+- 🌐 **Portfolio:** [zportfolio.dev](https://zportfolio.dev/)
 - 🐙 **GitHub:** [@Zay2006](https://github.com/Zay2006)
 
 ---
 
 ## 🏆 Featured Projects
 
-- 🚦 [Social Dashboard](https://github.com/Zay2006/social-dashboard) — a project focused on tracking and visualizing social metrics.
-- ⏰ [TimedTimer 3.0](https://github.com/Zay2006/TimedTimer3.0) — a timed utility tool built to help manage tasks and time effectively.
+- 🚧 [Build a Bridge](https://buildabridge.org/) — a project centered on building and supporting meaningful community connections.
+- 🎥 [YouTube Viewer 2.0](https://youtube-viewer2-0.vercel.app/) — a modern way to watch and explore content.
 
 ---
 
@@ -76,7 +77,7 @@ I’m a developer who enjoys building creative, useful, and polished digital exp
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zay2006&show_icons=true&theme=tokyonight" alt="Isaiah's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zay2006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats%20This%20Year" alt="Isaiah's GitHub stats this year" />
 </p>
 
 <p align="center">
