@@ -30,9 +30,11 @@ I’m a developer who enjoys building creative, useful, and polished digital exp
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript" />
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" />
   <img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express" />
   <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
@@ -73,12 +75,6 @@ I’m a developer who enjoys building creative, useful, and polished digital exp
 > — Death The Kid, Soul Eater
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zay2006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats%20This%20Year" alt="Isaiah's GitHub stats this year" />
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80" alt="Sparkle Divider" />
