@@ -1,6 +1,6 @@
-<!-- Profile README for Isaiah Wright -->
+<!-- Profile README for Zay2006 -->
 
-<h1 align="center">Hi there, I'm Isaiah Wright! 👋✨</h1>
+<h1 align="center">Hi there, I'm Zay2006! 👋✨</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Anime Wave" />
