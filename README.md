@@ -55,7 +55,7 @@ I’m a developer who enjoys building creative, useful, and polished digital exp
 
 ## 🏆 Featured Projects
 
-- 🚧 [Build a Bridge](https://buildabridge.org/) — a project centered on building and supporting meaningful community connections.
+- 🚧 [BuildaBridge](https://buildabridge.org/) — a project centered on building and supporting meaningful community connections.
 - 🎥 [YouTube Viewer 2.0](https://youtube-viewer2-0.vercel.app/) — a modern way to watch and explore content.
 
 ---
